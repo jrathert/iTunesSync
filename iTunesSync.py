@@ -1,4 +1,4 @@
-
+import SampleXml as SX
 
 
 
@@ -10,5 +10,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+    SX.listArtists()
 
 
