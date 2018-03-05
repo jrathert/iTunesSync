@@ -1,4 +1,4 @@
-import SampleXml as SX
+import SampleLxml as SX
 
 
 
@@ -10,6 +10,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-    SX.listArtists()
+    #SX.parse()
+    SX.listAlbums()
 
 
